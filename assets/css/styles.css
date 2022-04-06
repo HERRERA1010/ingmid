@@ -1,23 +1,15 @@
+body{
+    font-family: 'Spartan', sans-serif; 
+    letter-spacing: 0.5px;
+    
+}
 
-
-
-
-
-
-.on-construction {
-    height: 150px;
-    max-width: 400px;
-    width: 100%;
-    border: 1px solid blue;
-    border-radius: 30px;
-    background-color: #0000ff;
-    margin: 150px auto;
+.navbar{
+   background-color: rgba(255, 255, 255, 0.2);
+   backdrop-filter: blur(20px) saturate(160%) contrast(45%) brightness(140%);
+   -webkit-backdrop-filter: blur(20px) saturate(160%) contrast(45%) brightness(140%);
+ 
 }
 
 
-.text-div > h1 {
-     color: #fff;
-     line-height: 150px;
-     font-family: 'Spartan', sans-serif;
-     font-size: 25px;
-}
+
